@@ -22,7 +22,7 @@ Here is a working live demo: https://coffeeshopheba.netlify.app/.
    - CSS3 Spinner
     
 ## Learning Experience
-This project was created to see how JavaScript adds life to a website and to refresh my skills to continue building strong React.js and Node.js projects.
+The purpose of this project was to observe how JavaScript can bring a website to life and to refresh my skills, enabling me to continue developing strong React.js and Node.js projects.
 
 ## Deployment
 The website is deployed using Netlify.
